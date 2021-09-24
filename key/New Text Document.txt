@@ -1,0 +1,36 @@
+node -v  ==> for node version
+mkdr <foldernaem> ==> for creating folder
+cd <flodername> ==>opening the folder
+
+npm -v  ==> npm version
+npm init ==>   installing npm in folder
+npm install express --save  ==> instaing express js
+
+node index.js  ==> for open sever index.js
+
+git -v ==> git version
+<folder> git init ==> initializing git.
+
+git add . ==> adding files to git;
+
+git status ==> check wheather files are in git 
+
+git commit -m "initial commit" ==> Saving to git
+
+Heroku login
+
+git remote heroku <Link>
+
+git push heroku master
+
+
+
+
+
+
+
+
+
+
+
+set GOOGLE_APPLICATION_CREDENTIALS=E:\\FYP Data\\keys-file.json
