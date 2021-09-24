@@ -16,6 +16,8 @@ Automation technologies are taking over all the spheres of our lives, be it the 
 
 # 1.2 Description
 
+bsdbsdfbsdfb
+
 We daily go through a lot of cases either in a university or in any Educational Institute. And in some of these cases, situation could be worst. Statics shows that hundreds of thousands of students do not get enough information related to their queries even in the most developed university or educational institute around the world.
 As described below:  
 Germany => 1,00,000  
@@ -31,8 +33,7 @@ A lot of people use in their efforts to find the information for themselves. The
 
 # 1.4 Scope
 
-It is hard to find out a specific detail in a large social community present over the world. Many of people are not utilize their effort to find out desire information. So, in this way their time got wasted and not get success to find the platform. They cannot search it directly because they do not know their exact location. The proposed solution is a project of a Web-based Chatbot, to get the desired details just by talking to it or answering some specific questions. The chatbot can access the details of university or educational institute website and can show those details to students if he asked for them. If chatbot does not find the details for the student inquiries. The Chatbot will sent those queries to admin via mail. So, admin will assist student regarding those inquires and they contact each other by their mail information and ultimately, they get students get their desired information by chatbot.  
-
+It is hard to find out a specific detail in a large social community present over the world. Many of people are not utilize their effort to find out desire information. So, in this way their time got wasted and not get success to find the platform. They cannot search it directly because they do not know their exact location. The proposed solution is a project of a Web-based Chatbot, to get the desired details just by talking to it or answering some specific questions. The chatbot can access the details of university or educational institute website and can show those details to students if he asked for them. If chatbot does not find the details for the student inquiries. The Chatbot will sent those queries to admin via mail. So, admin will assist student regarding those inquires and they contact each other by their mail information and ultimately, they get students get their desired information by chatbot.
 
 # 1.5 Objectives
 
